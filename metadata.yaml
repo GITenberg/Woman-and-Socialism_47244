@@ -1,9 +1,13 @@
 _repo: Woman-and-Socialism_47244
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Stern, Meta L.
     gutenberg_agent_id: '44205'
     url: http://www.gutenberg.org/2009/agents/44205
+covers:
+- cover_type: archival
+  image_path: 47244-h/images/cover.jpg
 creator:
   author:
     agent_name: Bebel, August
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4288
     wikipedia: http://en.wikipedia.org/wiki/August_Bebel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47244#Woman-and-Socialism
 gutenberg_issued: '2014-10-30'
 gutenberg_type: Text
 identifiers:
